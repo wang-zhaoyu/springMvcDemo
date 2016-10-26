@@ -14,7 +14,7 @@ import org.springframework.web.bind.annotation.RequestMethod;
 import java.util.List;
 
 /**
- *@Author:wanghzoayu
+ *@Author:wangzhaoyu
  *@Description: 首页逻辑控制层
  *@Date:Create in 2016/10/14 17:14
  */
